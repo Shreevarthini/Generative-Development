@@ -1,0 +1,12 @@
+Percentage of contribution:
+Member 1:  %
+Member 2:  %
+Member 3: % (leave blank, or remove if working as a pair).
+
+Explain contribution in words here.
+
+...
+
+Explain the use of AI tools here. This should be a detailed and clear description. Any general statements made here should be expanded - for example, avoid things like "AI used for structure" or "AI used for initial ideas" - both need a lot more information (e.g. what structure specifically, what initial ideas did it suggest, which prompts did you use and which parts of answers did you use, etc.
+
+...
